@@ -5,4 +5,4 @@ Los datos contienen salarios y detalles laborales y geográficos de diferentes p
 
 En la wiki de este repositorio se tendrá explicará todo el proceso desde la extracción y limpieza de los datos hasta la creación de un dashboard que permita narrar a nosotros mismos y a un público especializado una historia con la información disponible.
 
-Link de la wiki: 
+Link de la wiki: https://github.com/ribarrab/askamanager/wiki
